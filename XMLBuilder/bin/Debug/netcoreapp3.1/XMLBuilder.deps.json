@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "XMLBuilder/1.0.0": {
+        "runtime": {
+          "XMLBuilder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "XMLBuilder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
